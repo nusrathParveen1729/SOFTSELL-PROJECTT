@@ -7,9 +7,6 @@ SoftSell is a web platform built with **React** and **Vite** designed to empower
 
 - **Frontend**: React, Vite, TailwindCSS
 - **Backend**: Node.js
-- **Database**: MongoDB/PostgreSQL
-- **AI Chatbot**: Dialogflow
-- **Payment**: Stripe, Razorpay
 
 ## Getting Started
 
@@ -32,22 +29,10 @@ SoftSell is a web platform built with **React** and **Vite** designed to empower
   
 4. Open `http://localhost:3000` in your browser.
 
-## Features
 
-* Simple product listings for women entrepreneurs.
-* AI chatbot for real-time customer support.
-* Multilingual support.
-* Secure payment methods (Stripe, Razorpay).
 
-## License
 
-MIT License. See [LICENSE](LICENSE) for details.
 
-## Contact
-
-For questions, email [support@softsell.com](mailto:support@softsell.com).
-
-```
 
 ### Key Adjustments:
 - Simplified project description and features.
