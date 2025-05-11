@@ -1,5 +1,5 @@
 
-# SoftSell - Empowering Women Entrepreneurs
+# SoftSell - Software resale startup 
 
 SoftSell is a web platform built with **React** and **Vite** designed to empower women entrepreneurs. It features a simple marketplace for selling products, secure payment integration, and an AI-powered chatbot for real-time support.
 
